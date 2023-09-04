@@ -1,0 +1,2 @@
+#!/bin/bash
+uniq -v "bin" /etc/passwd | sort -l
