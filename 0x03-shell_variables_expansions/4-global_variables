@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $MY_VARIABLE
+echo $MY_VARIABLE | ls
